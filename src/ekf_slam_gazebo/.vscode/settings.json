@@ -1,0 +1,20 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/aniketh05/my_ros2_ws/install/turtle_control/lib/python3.10/site-packages",
+        "/home/aniketh05/my_ros2_ws/install/my_services/lib/python3.10/site-packages",
+        "/home/aniketh05/my_ros2_ws/install/my_pkg_prac/lib/python3.10/site-packages",
+        "/home/aniketh05/my_ros2_ws/install/my_pkg_01/lib/python3.10/site-packages",
+        "/home/aniketh05/my_ros2_ws/install/my_msg_srv/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/aniketh05/my_ros2_ws/install/turtle_control/lib/python3.10/site-packages",
+        "/home/aniketh05/my_ros2_ws/install/my_services/lib/python3.10/site-packages",
+        "/home/aniketh05/my_ros2_ws/install/my_pkg_prac/lib/python3.10/site-packages",
+        "/home/aniketh05/my_ros2_ws/install/my_pkg_01/lib/python3.10/site-packages",
+        "/home/aniketh05/my_ros2_ws/install/my_msg_srv/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}

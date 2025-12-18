@@ -1,0 +1,4 @@
+[console_scripts]
+controller_node = ekf_slam_gazebo.controller_node:main
+slam_node = ekf_slam_gazebo.slam_node:main
+

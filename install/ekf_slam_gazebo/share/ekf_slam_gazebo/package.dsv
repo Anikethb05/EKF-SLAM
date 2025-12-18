@@ -1,0 +1,6 @@
+source;share/ekf_slam_gazebo/hook/pythonpath.ps1
+source;share/ekf_slam_gazebo/hook/pythonpath.dsv
+source;share/ekf_slam_gazebo/hook/pythonpath.sh
+source;share/ekf_slam_gazebo/hook/ament_prefix_path.ps1
+source;share/ekf_slam_gazebo/hook/ament_prefix_path.dsv
+source;share/ekf_slam_gazebo/hook/ament_prefix_path.sh

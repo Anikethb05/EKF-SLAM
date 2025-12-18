@@ -1,0 +1,45 @@
+[0.699s] Invoking command in '/home/aniketh05/ros2_slam_ws/build/ekf_slam_gazebo': PYTHONPATH=/home/aniketh05/ros2_slam_ws/build/ekf_slam_gazebo/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/aniketh05/ros2_slam_ws/install/ekf_slam_gazebo/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/aniketh05/ros2_slam_ws/build/ekf_slam_gazebo/build
+[0.986s] running develop
+[1.046s] /home/aniketh05/.local/lib/python3.10/site-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 2.0.5-build-libtorrent-rasterbar-qrM5vM-libtorrent-rasterbar-2.0.5-bindings-python is an invalid version and will not be supported in a future release
+[1.047s]   warnings.warn(
+[1.186s] Removing /home/aniketh05/ros2_slam_ws/install/ekf_slam_gazebo/lib/python3.10/site-packages/ekf-slam-gazebo.egg-link (link to .)
+[1.221s] Invoked command in '/home/aniketh05/ros2_slam_ws/build/ekf_slam_gazebo' returned '0': PYTHONPATH=/home/aniketh05/ros2_slam_ws/build/ekf_slam_gazebo/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/aniketh05/ros2_slam_ws/install/ekf_slam_gazebo/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/aniketh05/ros2_slam_ws/build/ekf_slam_gazebo/build
+[1.223s] Invoking command in '/home/aniketh05/ros2_slam_ws/src/ekf_slam_gazebo': PYTHONPATH=/home/aniketh05/ros2_slam_ws/build/ekf_slam_gazebo/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/aniketh05/ros2_slam_ws/install/ekf_slam_gazebo/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ekf_slam_gazebo build --build-base /home/aniketh05/ros2_slam_ws/build/ekf_slam_gazebo/build install --record /home/aniketh05/ros2_slam_ws/build/ekf_slam_gazebo/install.log --single-version-externally-managed install_data --force
+[1.510s] running egg_info
+[1.514s] writing ../../build/ekf_slam_gazebo/ekf_slam_gazebo.egg-info/PKG-INFO
+[1.515s] writing dependency_links to ../../build/ekf_slam_gazebo/ekf_slam_gazebo.egg-info/dependency_links.txt
+[1.515s] writing entry points to ../../build/ekf_slam_gazebo/ekf_slam_gazebo.egg-info/entry_points.txt
+[1.515s] writing requirements to ../../build/ekf_slam_gazebo/ekf_slam_gazebo.egg-info/requires.txt
+[1.515s] writing top-level names to ../../build/ekf_slam_gazebo/ekf_slam_gazebo.egg-info/top_level.txt
+[1.518s] reading manifest file '../../build/ekf_slam_gazebo/ekf_slam_gazebo.egg-info/SOURCES.txt'
+[1.519s] writing manifest file '../../build/ekf_slam_gazebo/ekf_slam_gazebo.egg-info/SOURCES.txt'
+[1.519s] running build
+[1.520s] running build_py
+[1.520s] creating /home/aniketh05/ros2_slam_ws/build/ekf_slam_gazebo/build
+[1.520s] creating /home/aniketh05/ros2_slam_ws/build/ekf_slam_gazebo/build/lib
+[1.521s] creating /home/aniketh05/ros2_slam_ws/build/ekf_slam_gazebo/build/lib/ekf_slam_gazebo
+[1.521s] copying ekf_slam_gazebo/controller_node.py -> /home/aniketh05/ros2_slam_ws/build/ekf_slam_gazebo/build/lib/ekf_slam_gazebo
+[1.521s] copying ekf_slam_gazebo/slam_node.py -> /home/aniketh05/ros2_slam_ws/build/ekf_slam_gazebo/build/lib/ekf_slam_gazebo
+[1.522s] copying ekf_slam_gazebo/__init__.py -> /home/aniketh05/ros2_slam_ws/build/ekf_slam_gazebo/build/lib/ekf_slam_gazebo
+[1.522s] running install
+[1.522s] running install_lib
+[1.523s] creating /home/aniketh05/ros2_slam_ws/install/ekf_slam_gazebo/lib/python3.10/site-packages/ekf_slam_gazebo
+[1.523s] copying /home/aniketh05/ros2_slam_ws/build/ekf_slam_gazebo/build/lib/ekf_slam_gazebo/controller_node.py -> /home/aniketh05/ros2_slam_ws/install/ekf_slam_gazebo/lib/python3.10/site-packages/ekf_slam_gazebo
+[1.524s] copying /home/aniketh05/ros2_slam_ws/build/ekf_slam_gazebo/build/lib/ekf_slam_gazebo/slam_node.py -> /home/aniketh05/ros2_slam_ws/install/ekf_slam_gazebo/lib/python3.10/site-packages/ekf_slam_gazebo
+[1.524s] copying /home/aniketh05/ros2_slam_ws/build/ekf_slam_gazebo/build/lib/ekf_slam_gazebo/__init__.py -> /home/aniketh05/ros2_slam_ws/install/ekf_slam_gazebo/lib/python3.10/site-packages/ekf_slam_gazebo
+[1.524s] byte-compiling /home/aniketh05/ros2_slam_ws/install/ekf_slam_gazebo/lib/python3.10/site-packages/ekf_slam_gazebo/controller_node.py to controller_node.cpython-310.pyc
+[1.525s] byte-compiling /home/aniketh05/ros2_slam_ws/install/ekf_slam_gazebo/lib/python3.10/site-packages/ekf_slam_gazebo/slam_node.py to slam_node.cpython-310.pyc
+[1.528s] byte-compiling /home/aniketh05/ros2_slam_ws/install/ekf_slam_gazebo/lib/python3.10/site-packages/ekf_slam_gazebo/__init__.py to __init__.cpython-310.pyc
+[1.534s] running install_data
+[1.535s] copying resource/ekf_slam_gazebo -> /home/aniketh05/ros2_slam_ws/install/ekf_slam_gazebo/share/ament_index/resource_index/packages
+[1.535s] copying package.xml -> /home/aniketh05/ros2_slam_ws/install/ekf_slam_gazebo/share/ekf_slam_gazebo
+[1.535s] copying launch/slam_launch.py -> /home/aniketh05/ros2_slam_ws/install/ekf_slam_gazebo/share/ekf_slam_gazebo/launch
+[1.535s] copying worlds/room.world -> /home/aniketh05/ros2_slam_ws/install/ekf_slam_gazebo/share/ekf_slam_gazebo/worlds
+[1.535s] copying models/robot.urdf -> /home/aniketh05/ros2_slam_ws/install/ekf_slam_gazebo/share/ekf_slam_gazebo/models
+[1.536s] running install_egg_info
+[1.537s] Copying ../../build/ekf_slam_gazebo/ekf_slam_gazebo.egg-info to /home/aniketh05/ros2_slam_ws/install/ekf_slam_gazebo/lib/python3.10/site-packages/ekf_slam_gazebo-0.0.1-py3.10.egg-info
+[1.539s] running install_scripts
+[1.555s] Installing controller_node script to /home/aniketh05/ros2_slam_ws/install/ekf_slam_gazebo/lib/ekf_slam_gazebo
+[1.556s] Installing slam_node script to /home/aniketh05/ros2_slam_ws/install/ekf_slam_gazebo/lib/ekf_slam_gazebo
+[1.557s] writing list of installed files to '/home/aniketh05/ros2_slam_ws/build/ekf_slam_gazebo/install.log'
+[1.584s] Invoked command in '/home/aniketh05/ros2_slam_ws/src/ekf_slam_gazebo' returned '0': PYTHONPATH=/home/aniketh05/ros2_slam_ws/build/ekf_slam_gazebo/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/aniketh05/ros2_slam_ws/install/ekf_slam_gazebo/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ekf_slam_gazebo build --build-base /home/aniketh05/ros2_slam_ws/build/ekf_slam_gazebo/build install --record /home/aniketh05/ros2_slam_ws/build/ekf_slam_gazebo/install.log --single-version-externally-managed install_data --force
